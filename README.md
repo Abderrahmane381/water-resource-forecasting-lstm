@@ -37,8 +37,7 @@ water resources in the Tangier region. It combines:
 │   ├── tangier_synthetic_water_model_with_supply_2000_2035.csv
 │   ├── tangier_synthetic_water_model_with_supply_FIXED_STORAGE_2000_2035.csv
 │   ├── tangier_synthetic_water_virtual_water_2000_2035.csv
-│   ├── tangier_synthetic_water_food_self_sufficiency_2000_2035.csv
-│   └── final_forecast_2026_2035.csv
+│   └── tangier_synthetic_water_food_self_sufficiency_2000_2035.csv
 │
 ├── src/
 │   ├── fixed_dataset.ipynb
